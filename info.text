@@ -1,3 +1,14 @@
+new file--1 line code
 git init
 git status
 git add .
+git add script.js
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sonalinimbalkar17/tixdo.git
+git push -u origin main
+
+2 line code
+git add .
+git commit -m "added"
+git push -u origin main
