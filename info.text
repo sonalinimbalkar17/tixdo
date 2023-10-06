@@ -17,5 +17,5 @@ git diff script--->diff between working and staging
 git log
 git show HEAD
 git checkout HEAD filename----->working as last commit
-git chackout reset fileName---->staging same as last commit
+git checkout reset fileName---->staging same as last commit
 git reset 7sh
